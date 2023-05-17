@@ -1,3 +1,4 @@
+pip install gradio
 import gradio as gr
 import pandas as pd
 import numpy as np
